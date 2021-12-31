@@ -1,0 +1,13 @@
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0"><title >lol</title><chapter ><title>chap1</title><para>
+  para1
+</para><para>
+  para2
+</para><para>
+  para3
+</para></chapter><chapter ><title>chap2</title><para>
+  p1
+</para><para>
+  p2
+</para><para>
+  p3
+</para></chapter></book>
